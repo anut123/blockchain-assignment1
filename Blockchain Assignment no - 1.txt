@@ -1,0 +1,28 @@
+1. What is your understanding of Blockchain?
+- Blockchain can be described as a data structure that holds transactional records
+and while ensuring security, transparency, and decentralization. It as a chain or records
+stored in the forms of blocks which are controlled by no single authority.
+
+2. What is the core problem blockchain trying to solve?
+- Authenticity and verifiable data that is decentralized which is transparent and
+ less prone to hacking or tampering.
+
+3. Features of Blockchain:
+- Verifiable
+- Unchangeable
+- Tamper proof
+- Immutable
+
+4. What are the things that a Block will contain?
+- Block number
+- cryptographic hash of the previous block
+- Transaction record or data
+- Mining key
+
+5. How the verifiability of Blockchain is attained?
+- The data is distributed in various databases simultaneously and takes place every 
+10 seconds. Each block contains new signature, data, cryptographic hash of the previous
+ block. If the data is tampered at any point of time in a database or a system, the following 
+blocks in that database or system will have different block hash than that of systems or 
+databases that are un-tampered. At any point of time one can compare the block hash 
+with other systems or databases to check if it is same.
